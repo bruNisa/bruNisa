@@ -1,4 +1,4 @@
-## Oiii, eu sou a Bruna Nisa!
+## Oiê!! 🖐
 <div align="center">
   <a href="https://github.com/bruNisa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunisa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
